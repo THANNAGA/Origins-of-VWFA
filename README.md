@@ -5,7 +5,7 @@ This is the repository for the November 2021 PNAS article:
 
 Emergence of a compositional neural code for written words: Recycling of a convolutional neural network for reading.
 
-[read more...](#longer-motivation)
+## Contents
 
 Here you will find 4 types of resources:
 
@@ -68,3 +68,16 @@ Here you will find 4 types of resources:
 		
 
 All models are simple CNNs, trained in Pytorch.
+
+
+## Requirements
+
+- Python 3.6+
+- PyTorch 0.4.1+
+- numpy
+- tqdm
+
+
+## License
+
+GNU GPL 3+
