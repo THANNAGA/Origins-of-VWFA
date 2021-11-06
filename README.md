@@ -6,16 +6,14 @@ Emergence of a compositional neural code for written words: Recycling of a convo
 
 Here you will find 3 types of resources:
 1. Python scripts to train the model
-  These consist in 3 scripts:
-  "clean_cornets.py" where the models are defined
-  "clean_train.py" which contains the training loop and acts like a main script
-  "ds2.py" which holds dataset classes and various functions related to the extraction and manipualtion of data.
+	These consist in 3 scripts:	
+  	"clean_cornets.py" where the models are defined.<br/> 
+  	"clean_train.py" which contains the training loop and acts like a main script.
+  	"ds2.py" which holds dataset classes and various functions related to the extraction and manipualtion of data.
   
 2. Datasets of stimuli used for the analyses
-  These consist in 2 types of files:
-  "" The word dataset added to the ImageNet dataset in the second phase of training 
-  "" are the datasets used for the analyses presented in the paper.
+		
 
-4. Pretrained models for all conditions.
+3. Pretrained models for all conditions.
 
 All models are very simple CNNs, trained in Pytorch.
