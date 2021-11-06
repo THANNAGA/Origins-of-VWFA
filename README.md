@@ -7,7 +7,7 @@ Emergence of a compositional neural code for written words: Recycling of a convo
 Here you will find 3 types of resources:
 1. Python scripts to train the model
 	These consist in 3 scripts:	
-  	"clean_cornets.py" where the models are defined.<br/> 
+  	"clean_cornets.py" where the models are defined.\
   	"clean_train.py" which contains the training loop and acts like a main script.
   	"ds2.py" which holds dataset classes and various functions related to the extraction and manipualtion of data.
   
